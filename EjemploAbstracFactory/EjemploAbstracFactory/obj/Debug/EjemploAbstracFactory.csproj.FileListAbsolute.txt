@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\bin\Debug\EjemploAbstracFactory.exe.config
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\bin\Debug\EjemploAbstracFactory.exe
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\bin\Debug\EjemploAbstracFactory.pdb
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\obj\Debug\EjemploAbstracFactory.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\obj\Debug\EjemploAbstracFactory.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\obj\Debug\EjemploAbstracFactory.exe
+C:\Users\carlos.can\source\repos\EjemploAbstracFactory\EjemploAbstracFactory\obj\Debug\EjemploAbstracFactory.pdb
